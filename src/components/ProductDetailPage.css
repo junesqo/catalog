@@ -1,0 +1,27 @@
+/* ProductDetailPage.css */
+
+.product-detail {
+  padding: 20px;
+}
+
+.image-container {
+  position: relative;
+}
+
+.main-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px; /* Добавляем отступ между основным изображением и дополнительными изображениями */
+}
+
+.additional-images {
+  display: flex;
+  flex-wrap: wrap; /* Позволяет дополнительным изображениям переноситься на новую строку */
+}
+
+.additional-image {
+  max-width: 100%; /* Задаем фиксированную ширину для дополнительных изображений */
+  height: auto;
+  margin-right: 10px; /* Добавляем отступ между дополнительными изображениями */
+  margin-bottom: 10px; /* Добавляем отступ снизу для последнего изображения в строке */
+}
