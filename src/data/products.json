@@ -1,8 +1,4 @@
 [
-    {"id": 1, "categoryId": 1, "name": "Бильярдный стол Классик", "image": "https://i.imgur.com/kY1dvUs.png", "images": [
-         "https://i.imgur.com/DMTzTAL.png", 
-         "https://i.imgur.com/kMz5z3Y.png"
-         ], "price": 0, "description": ""},
     {"id": 2, "categoryId": 1, "name": "Бильярдный стол Арсенал II", "image": "https://i.imgur.com/akpgui2.png", "images": [
         "https://i.imgur.com/G3xmIAC.png", 
         "https://i.imgur.com/XNnna77.png", 
