@@ -1,13 +1,15 @@
 [
-    {"id": 1, "name": "Бильярдные столы", "image": "image1.png"},
-    {"id": 2, "name": "Киевницы и полки для шаров", "image": "image2.png"},
-    {"id": 3, "name": "Кии и древки", "image": "image3.png"},
-    {"id": 4, "name": "Светильники", "image": "image4.png"},
-    {"id": 5, "name": "Шары", "image": "image5.png"},
-    {"id": 6, "name": "Аксессуары для стола", "image": "image6.png"},
-    {"id": 7, "name": "Аксессуары для кия", "image": "image7.png"},
-    {"id": 8, "name": "Аксессуары для игрока", "image": "image8.png"},
-    {"id": 9, "name": "Сукно", "image": "image9.png"},
-    {"id": 10, "name": "Чехлы и тубусы", "image": "image10.png"},
-    {"id": 11, "name": "Все комплектующие", "image": "image11.png"}
+    {"id": 1, "name": "Бильярдные коллекции (31)", "image": "image1.png"},
+    {"id": 2, "name": "Бильярдные столы (88)", "image": "image2.png"},
+    {"id": 3, "name": "Светильники (139)", "image": "image3.png"},
+    {"id": 4, "name": "Кии и древки (193)", "image": "image4.png"},
+    {"id": 5, "name": "Киевницы и полки для шаров (100)", "image": "image5.png"},
+    {"id": 6, "name": "Шары (89)", "image": "image6.png"},
+    {"id": 7, "name": "Аксессуары для стола (96)", "image": "image7.png"},
+    {"id": 8, "name": "Аксессуары для кия (227)", "image": "image8.png"},
+    {"id": 9, "name": "Аксессуары для игрока (45)", "image": "image9.png"},
+    {"id": 10, "name": "Чехлы и тубусы (31)", "image": "image10.png"},
+    {"id": 11, "name": "Сукно (45)", "image": "image11.png"},
+    {"id": 12, "name": "Все комплектующие (53)", "image": "image12.png"},
+    {"id": 13, "name": "Средства по уходу (46)", "image": "image13.png"}
 ]

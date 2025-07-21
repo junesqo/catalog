@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import productsData from '../data/products.json';
+import productsData from '../data/newproducts.json';
 import './ProductDetailPage.css'; // Импортируем файл стилей
 import '../App.css';
 

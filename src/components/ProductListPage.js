@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
-import productsData from '../data/products.json';
+import productsData from '../data/newproducts.json';
 import categoryData from '../data/categories.json';
 
 import './ProductList.css';
@@ -26,7 +26,7 @@ const ProductListPage = () => {
               {/* Отображаем информацию о продукте */}
               <img src={product.image} alt={product.name} />
                 <h3>{product.name}</h3>
-                <p>{product.price} сом</p>
+                <span class="price">{product.price} сом</span>
             </li>
           </Link>
         ))}
